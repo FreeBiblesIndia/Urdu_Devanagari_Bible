@@ -5,7 +5,7 @@ New Testament (27 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/urd/ (Coming soon)
+http://freebiblesindia.in/bible/urd/ (Coming soon)
 
 Thanks
 =======
