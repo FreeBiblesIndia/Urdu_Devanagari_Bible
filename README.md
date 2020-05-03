@@ -1,11 +1,14 @@
 # Urdu_Devanagari_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Urdu_Devanagari_Bible/blob/master/icons/icon.png?raw=true)
+
 Urdu Devanagari Bible (CC by SA)
 
-New Testament (27 books) available now.
+Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.in/bible/urd/ (Coming soon)
+http://freebiblesindia.in/bible/urd/
 
 Thanks
 =======
